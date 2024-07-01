@@ -1,0 +1,2 @@
+Hi there, I am Kunal Kumar Garg.I completed my primary and secondary schooling at St. Joseph School, Shaktinager, Sonbhadra and my higher schooling at M.B. International School, Kota. I achieved a rank of 8086 in JEE Main and  rank of 7147 in JEE Advanced. Currently, I am in my second year, studying Computer Science and Engineering (CSE) at NIT Kurukshetra.
+My skills include C, C++, Java, Python, HTML, CSS, and JavaScript. I actively participate in coding competitions and solve data structures and algorithms (DSA) problems on LeetCode.
