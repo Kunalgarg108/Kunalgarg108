@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kunal Kumar Garg</h1>
 <h3 align="center">B.Tech CSE Student | Aspiring Software Engineer | Passionate About Problem-Solving & Algorithms</h3>
 
-- 📫 Reach me at**sg025846@gmail.com**
+- 📫 Reach me at **sg025846@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,6 +18,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunalgarg108&show_icons=true&locale=en" alt="kunalgarg108" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalgarg108&" alt="kunalgarg108" /></p>
 
 
