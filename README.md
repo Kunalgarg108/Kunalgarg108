@@ -32,7 +32,13 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Kunalgarg108&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kunalgarg108&theme=dark&hide_border=false" /> 
+ <img src="https://img.shields.io/github/followers/Kunalgarg108?label=Followers&style=social" alt="GitHub Followers"/>
+
+  <!-- GitHub User's stars -->
+  <img src="https://img.shields.io/github/stars/Kunalgarg108?style=social" alt="GitHub Stars"/>
+
+  <!-- Total Repo Count -->
+  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Public%20Repos&query=public_repos&url=https://api.github.com/users/Kunalgarg108&style=flat-square" alt="Public Repos"/>
 </td>
 
 <td width="50%" align="center">
