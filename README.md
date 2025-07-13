@@ -74,7 +74,7 @@
 <p align="center">
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,c,css,express,firebase,github,html,illustrator,java,js,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,arduino&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,cpp,c,css,express,firebase,github,html,illustrator,java,js,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,arduino,graphql&perline=14" />
   </a>
 </p>
 
